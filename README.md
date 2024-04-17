@@ -1,8 +1,7 @@
-<h3 align="center">Hi I am Vaishnavi Wadkar</h3>
 
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<h1 align="center">Hi I am Vaishnavi Wadkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-wadkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-wadkar" alt="vaishnavi-wadkar" /></a> </p>
 
 - 🔭 I’m currently working on **Delving into advanced data structures and algorithms to boost performance in Python applications, while also delving into Machine Learning and Deep Learning techniques to craft innovative solutions for real-world challenges.**
 
