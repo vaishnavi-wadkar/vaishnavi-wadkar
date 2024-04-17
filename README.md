@@ -1,4 +1,4 @@
-![Developer Photograph]https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=740&t=st=1713373494~exp=1713374094~hmac=a4c0ba855bd7826a532c87409adfdbc90a66f74e830393319c27c896a3177468)
+![Developer Photograph](https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=740&t=st=1713373494~exp=1713374094~hmac=a4c0ba855bd7826a532c87409adfdbc90a66f74e830393319c27c896a3177468)
 
 <h1 align="center">👩‍💻 Hi, I'm Vaishnavi Wadkar</h1>
 
