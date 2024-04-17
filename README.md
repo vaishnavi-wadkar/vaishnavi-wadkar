@@ -1,5 +1,4 @@
 
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi I am Vaishnavi Wadkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-wadkar" /> </p>
 
