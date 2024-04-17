@@ -1,7 +1,7 @@
-![Developer Photograph](https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=740&t=st=1713373494~exp=1713374094~hmac=a4c0ba855bd7826a532c87409adfdbc90a66f74e830393319c27c896a3177468)
 
-<h1 align="center">👩‍💻 Hi, I'm Vaishnavi Wadkar</h1>
-
+<h3 align="center">👩‍💻 Hi, I'm Vaishnavi Wadkar</h3>
+<h3 align="center">Data science and machine learning enthusiast.</h3>
+<img src="https://img.freepik.com/free-vector/flat-design-young-girl-programmer-working_23-2148267156.jpg?w=740&t=st=1713373494~exp=1713374094~hmac=a4c0ba855bd7826a532c87409adfdbc90a66f74e830393319c27c896a3177468" alt="not loading"width="400";
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-wadkar" /> </p>
 
 🔭 Currently diving into advanced data structures and algorithms to optimize Python applications, while also exploring Machine Learning and Deep Learning for real-world challenges.
