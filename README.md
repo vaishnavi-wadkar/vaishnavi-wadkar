@@ -14,7 +14,7 @@
 
 📫 Reach me at vaishnaviwadkar4@gmail.com
 
-📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1PilD_97cqlb0ZiLoDZLjTRflR0oSg0Kn/view)
+📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1IXtpGcI_9-sCi89Jq6lBtDqXvc2yArpk/view?usp=drive_link)
 
 
 
