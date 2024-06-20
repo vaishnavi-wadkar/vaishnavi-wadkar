@@ -44,4 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-wadkar&show_icons=true&locale=en" alt="vaishnavi-wadkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-wadkar&" alt="vaishnavi-wadkar" /></p>
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-wadkar&show_icons=true&theme=radical)
+
+
